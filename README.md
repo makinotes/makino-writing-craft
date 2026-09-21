@@ -5,7 +5,7 @@
 > 一本 34 万字写作方法论，蒸馏成 7 条原则 + 10 个模块 + 28 项自检清单，给 AI 写作助手当质量层用。
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-5A67D8.svg)](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/skills)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-5A67D8.svg)](https://docs.claude.com/en/docs/claude-code/skills)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-gray.svg)](https://github.com/anthropics/claude-code)
 
 [Features](#features) · [Install](#install) · [Usage](#usage) · [Frameworks](#key-frameworks-included) · [FAQ](#faq)
@@ -90,10 +90,9 @@ This skill is an open-source distillation for AI writing assistance. All intelle
 
 ## Community & Contact
 
-| | |
-|---|---|
-| ![飞书交流群](assets/feishu-group-qr.jpg) | ![马奇诺公众号](assets/wechat-qr-makino.jpg) |
-| **飞书交流群** — 使用问题、Bug 反馈、功能建议 | **公众号「马奇诺」** — AI/Data/PKM 实践，后台留言也可以反馈 |
+Bugs, questions and ideas: open an issue. 也可以在公众号「马奇诺」后台留言。
+
+<img src="assets/wechat-qr-makino.jpg" alt="公众号 马奇诺" width="200">
 
 ## Author
 
